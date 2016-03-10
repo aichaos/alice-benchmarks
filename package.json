@@ -1,0 +1,27 @@
+{
+  "name": "alice-benchmarks",
+  "version": "0.0.0",
+  "description": "Testing Alice in RiveScript",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aichaos/alice-benchmarks"
+  },
+  "keywords": [
+    "alice",
+    "aiml",
+    "rivescript"
+  ],
+  "author": "Noah Petherbridge <root@kirsle.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aichaos/alice-benchmarks/issues"
+  },
+  "dependencies": {
+    "rivescript": "~1.6.0",
+    "printf": "~0.2.3"
+  }
+}
